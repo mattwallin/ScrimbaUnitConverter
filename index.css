@@ -31,14 +31,17 @@ button {
 }
 
 .container p {
-    background-color: white;
-    text-align: center;
-    width: 85%;
-    margin: 20px auto;
-    padding: 20px;
+    margin: 10px auto;
+    padding: 10px;
 }
 
 .container h1 {
     color: #5A537B;
+}
+
+.card {
+    margin: 10px auto;
+    background-color: white;
+    width: 85%;
     text-align: center;
 }
