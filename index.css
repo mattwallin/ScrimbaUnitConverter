@@ -3,20 +3,23 @@ body {
 }
 
 .converter {
-    background-color: blue;
+    background-color: #6943FF; 
     height: 35%;
     align-items: flex;
 }
 
 .wrapper .container {
-    height: 100vw;
-    width: 100vw;
+    height: 65%;
     margin: auto;
-    background-color: gray;
+    background-color: #F4F4F4;
 }
 
 input {
-    margin: auto;
+    display: flex;
+    padding: 5px;
+    text-align: center;
+    background-color: #6943FF;
+    border-color: white;
 }
 
 button {
@@ -28,10 +31,14 @@ button {
 }
 
 .container p {
-    display: flex;
     background-color: white;
     text-align: center;
     width: 85%;
     margin: 20px auto;
-    padding-top: 20px;
+    padding: 20px;
+}
+
+.container h1 {
+    color: #5A537B;
+    text-align: center;
 }
