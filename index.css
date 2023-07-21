@@ -1,0 +1,35 @@
+body {
+    margin: auto;
+}
+
+.converter {
+    background-color: blue;
+    height: 35%;
+    align-items: flex;
+}
+
+.wrapper .container {
+    height: 100vw;
+    width: 100vw;
+    margin: auto;
+    background-color: gray;
+}
+
+input {
+    margin: auto;
+}
+
+button {
+    margin: auto;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+}
+
+.container p {
+    background-color: white;
+    text-align: center;
+    width: 85%;
+    margin: 20px auto;
+    
+}
